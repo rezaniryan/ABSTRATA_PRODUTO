@@ -12,6 +12,12 @@ A classe ProdutoVestuario possui os atributos tamanho, cor e material.
 
 Todas as classes devem ter métodos para salvar, deletar e atualizar registros em um banco de dados relacional.
 
+
+![Diagrama UML](assets/Produto.png)
+![Diagrama UML](assets/ProdutoAlimenticio.png)
+![Diagrama UML](assets/ProdutoVestuario.png)
+![Diagrama UML](assets/Console.png)
+
 ## 🛠️ Construído com
 
 * IDE Eclipse
